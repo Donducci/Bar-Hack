@@ -2983,6 +2983,8 @@ Scenario: "Mr. Chinedu Eze bought a two-story building at 5 Afolayan Close, Mait
     hint: "For a will to be valid, it must be properly attested by at least two witnesses."
   },
   {
+    Scenario: "Godiya Albarka, Duniya, and Joy were kidnapped along Kaduna-Jos Road on their way to inspect a mining site in 2023. Godiya died in the kidnappers' den, but before his demise, he scribbled some words on his shirt sleeve in his native Berom language and signed them in the presence of Duniya and Joy. The inscription read: (i) A bungalow to my first son, Zamani; (ii) N5,000,000 in my miner's bank account no. 2234356123 to my mistress, Ola of Ondo State; (iii) My 200 units of shares in BUA plc to my twin brother Ilya.",
+    
     question: "The gift in clause (i) is an example of a:",
    options: [
       "Specific gift",
@@ -2995,6 +2997,8 @@ Scenario: "Mr. Chinedu Eze bought a two-story building at 5 Afolayan Close, Mait
     hint: "A general gift refers to a bequest that is not described in specific detail."
   },
   {
+    Scenario: "Godiya Albarka, Duniya, and Joy were kidnapped along Kaduna-Jos Road on their way to inspect a mining site in 2023. Godiya died in the kidnappers' den, but before his demise, he scribbled some words on his shirt sleeve in his native Berom language and signed them in the presence of Duniya and Joy. The inscription read: (i) A bungalow to my first son, Zamani; (ii) N5,000,000 in my miner's bank account no. 2234356123 to my mistress, Ola of Ondo State; (iii) My 200 units of shares in BUA plc to my twin brother Ilya.",
+    
     question: "The gift in clause (i) may suffer:",
    options: [
       "Abatement",
@@ -3007,6 +3011,8 @@ Scenario: "Mr. Chinedu Eze bought a two-story building at 5 Afolayan Close, Mait
     hint: "Abatement occurs when a general gift is reduced to pay off the deceased's debts."
   },
   {
+    Scenario: "Godiya Albarka, Duniya, and Joy were kidnapped along Kaduna-Jos Road on their way to inspect a mining site in 2023. Godiya died in the kidnappers' den, but before his demise, he scribbled some words on his shirt sleeve in his native Berom language and signed them in the presence of Duniya and Joy. The inscription read: (i) A bungalow to my first son, Zamani; (ii) N5,000,000 in my miner's bank account no. 2234356123 to my mistress, Ola of Ondo State; (iii) My 200 units of shares in BUA plc to my twin brother Ilya.",
+    
     question: "The gift in clause (iii) may fail due to:",
    options: [
       "Insufficiency of gifts",
@@ -3019,6 +3025,8 @@ Scenario: "Mr. Chinedu Eze bought a two-story building at 5 Afolayan Close, Mait
     hint: "A gift may fail under the doctrine of lapse if the beneficiary predeceases the testator."
   },
   {
+    Scenario: "Godiya Albarka, Duniya, and Joy were kidnapped along Kaduna-Jos Road on their way to inspect a mining site in 2023. Godiya died in the kidnappers' den, but before his demise, he scribbled some words on his shirt sleeve in his native Berom language and signed them in the presence of Duniya and Joy. The inscription read: (i) A bungalow to my first son, Zamani; (ii) N5,000,000 in my miner's bank account no. 2234356123 to my mistress, Ola of Ondo State; (iii) My 200 units of shares in BUA plc to my twin brother Ilya.",
+    
     question: "Which of the following may be granted in respect of Godiya Albarka's Estate?",
    options: [
       "Probate",
@@ -3045,6 +3053,8 @@ Scenario: "Mr. Chinedu Eze bought a two-story building at 5 Afolayan Close, Mait
     hint: "A deed of conveyance is not required in a mortgage transaction."
   },
   {
+    Scenario: "Godiya Albarka, Duniya, and Joy were kidnapped along Kaduna-Jos Road on their way to inspect a mining site in 2023. Godiya died in the kidnappers' den, but before his demise, he scribbled some words on his shirt sleeve in his native Berom language and signed them in the presence of Duniya and Joy. The inscription read: (i) A bungalow to my first son, Zamani; (ii) N5,000,000 in my miner's bank account no. 2234356123 to my mistress, Ola of Ondo State; (iii) My 200 units of shares in BUA plc to my twin brother Ilya.",
+    
     question: "...is not a step in the perfection of the final document executed between Mr. Abraham Adaku and Firebrand Bank Plc:",
    options: [
       "Obtaining the consent of the Governor",
@@ -3057,6 +3067,8 @@ Scenario: "Mr. Chinedu Eze bought a two-story building at 5 Afolayan Close, Mait
     hint: "The process of perfection involves consent, stamping, and registration."
   },
   {
+    Scenario: "Godiya Albarka, Duniya, and Joy were kidnapped along Kaduna-Jos Road on their way to inspect a mining site in 2023. Godiya died in the kidnappers' den, but before his demise, he scribbled some words on his shirt sleeve in his native Berom language and signed them in the presence of Duniya and Joy. The inscription read: (i) A bungalow to my first son, Zamani; (ii) N5,000,000 in my miner's bank account no. 2234356123 to my mistress, Ola of Ondo State; (iii) My 200 units of shares in BUA plc to my twin brother Ilya.",
+    
     question: "The content of the account to be filed by the personal representatives of Mr. Abraham Adaku includes the following except:",
    options: [
       "Full inventory of the assets in the estate",
