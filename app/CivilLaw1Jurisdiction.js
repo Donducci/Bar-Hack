@@ -14,7 +14,7 @@ const questions = [
     ],
     correctOptions: ["The Supreme Court"],
     answeredOptions: [],
-    hint: "The Supreme Court has exclusive original jurisdiction over disputes between federal and state legislatures.",
+    hint: "The Supreme Court has exclusive original jurisdiction over disputes between federal and state legislatures. see section one of the supereme court additional jurisdiction act 2002",
   },
   {
     Scenario:
@@ -24,7 +24,7 @@ const questions = [
     options: ["7 Judges", "5 Judges", "5 Justices", "7 Justices"],
     correctOptions: ["7 Justices"],
     answeredOptions: [],
-    hint: "Cases of original jurisdiction in the Supreme Court require at least 7 Justices.",
+    hint: "Cases of original jurisdiction in the Supreme Court require at least 7 Justices Note The jurisdiction of the Supreme Court includes the following: Cases of its original jurisdiction, Appeals on fundamental human rights cases, Instances when it wishes to overrule its own previous decisions.",
   },
   {
     Scenario:
@@ -40,7 +40,7 @@ const questions = [
       "The National Legislature v Speaker, Legislature of Abia State",
     ],
     answeredOptions: [],
-    hint: "The Speaker is the nominal party for a state legislature.",
+    hint: "When the National Assembly is involved in a lawsuit, the party name used is National Assembly. For the House of Assembly, the party name used is Speaker of the House of Assembly. This is according to Section 3 of the Supreme Court Additional Jurisdiction Act.",
   },
   {
     Scenario:
@@ -57,7 +57,7 @@ const questions = [
       "Simple majority of members of both houses present and voting",
     ],
     answeredOptions: [],
-    hint: "Approval by a simple majority of members in both houses is required to initiate the lawsuit.",
+    hint: "Approval by a simple majority of members in both houses is required to initiate the lawsuit Sec. 3,Supreme Court Additional Jurisdiction Act.",
   },
   {
     Scenario:
@@ -72,7 +72,7 @@ const questions = [
     ],
     correctOptions: ["It is a final decision not subject to appeal"],
     answeredOptions: [],
-    hint: "Decisions in the Supreme Court’s original jurisdiction are final and cannot be appealed.",
+    hint: "The Supreme Court's decision is final and cannot be appealed. This is stated in Section 235 of the 1999 Constitution of the Federal Republic of Nigeria (CFRN).",
   },
   {
     Scenario:
@@ -131,7 +131,7 @@ const questions = [
     options: ["65", "70", "75"],
     correctOptions: ["70"],
     answeredOptions: [],
-    hint: "The compulsory retirement age for Court of Appeal Justices is the same as for Supreme Court Justices.Sec. 291, CFRN.",
+    hint: "A Justice of the Supreme Court or the Court of Appeal may retire when he attains the age of 65, but shall retire when he attains the age of 70. Sec. 291 CFRN.",
   },
   {
     Scenario:
@@ -175,11 +175,11 @@ const questions = [
     ],
     correctOptions: ["The Court of Appeal"],
     answeredOptions: [],
-    hint: "Petitions challenging presidential election results are filed at the Court of Appeal, which serves as the Presidential Election Tribunal.",
+    hint: "Petitions challenging presidential election results are exclusively filed at the Court of Appeal, which serves as the Presidential Election Tribunal. Sec.239(1),CFRN",
   },
   {
     Scenario:
-      "The Attorney General, Mr. Peter Sullivan, was prosecuting Mr. Marcus Brown, an alleged narcotics dealer, in the Capital Territory High Court. The defense counsel, Mr. Charles Gray QC, raised an objection, claiming that the court lacked jurisdiction to hear the matter. The presiding judge, Justice Linda Baker, sought advice as *amicus curiae* on the appropriate course of action.",
+      "The Attorney General, Mr. Peter Sullivan, was prosecuting Mr. Marcus Brown for alleged narcotics dealing in the Capital Territory High Court. The defense counsel, Mr. Charles Gray QC, objected, stating the court lacked jurisdiction. The presiding judge, Justice Linda Baker, asked for advice from an amicus curiae (a friend of the court) on the right course of action.",
     question: "What is the appropriate advice in this circumstance?",
     options: [
       "Strike out the case",
@@ -189,7 +189,7 @@ const questions = [
     ],
     correctOptions: ["Transfer the case to the Federal High Court"],
     answeredOptions: [],
-    hint: "Matters involving narcotics fall under the exclusive jurisdiction of the Federal High Court.",
+    hint: "Matters involving narcotics fall under the exclusive jurisdiction of the Federal High Court. However, The FCT Court Rules give a judge the authority to transfer cases to a court with the appropriate jurisdiction. If this situation were happening in Lagos, the judge would strike out the case instead. This is according to Order 41, Rule 6, of the FCT Rules, 2018.",
   },
   {
     Scenario:
@@ -205,7 +205,7 @@ const questions = [
       "The President of the Court of Appeal in consultation with State Heads of Court",
     ],
     answeredOptions: [],
-    hint: "The Constitution vests this authority in the President of the Court of Appeal.",
+    hint: "The President of the Court of Appeal appoints the chairmen of election tribunals, after consulting with the heads of the state courts.",
   },
   {
     Scenario:
@@ -218,7 +218,7 @@ const questions = [
     ],
     correctOptions: ["Governorship Election Petition"],
     answeredOptions: [],
-    hint: "The Constitution specifies that the Court of Appeal's decisions on Governorship Election Petitions are final.",
+    hint: "The decision of the Court of Appeal on legislative house election petitions is final, according to Section 246(3) of the 1999 Constitution of the Federal Republic of Nigeria (CFRN).",
   },
   {
     Scenario:
@@ -232,7 +232,7 @@ const questions = [
     ],
     correctOptions: ["High Court of Capital City Judicial Division"],
     answeredOptions: [],
-    hint: "Only High Courts have jurisdiction to hear matters regarding the validity of a will.",
+    hint: "Only High Courts have jurisdiction to hear matters regarding the validity of a will Sec. 1, Court of Appeal Act.",
   },
   {
     Scenario:
@@ -261,7 +261,7 @@ const questions = [
     ],
     correctOptions: ["Either Federal High Court or State High Court"],
     answeredOptions: [],
-    hint: "Disputes involving banker-customer relationships fall under the concurrent jurisdiction of both Federal and State High Courts.",
+    hint: "In disputes between banks and their customers, both the Federal High Court and the States High Court/FCT have the authority to hear the case. This is based on the case NDIC v Okem Enterprises and the proviso to Section 251(1)(d) of the CFRN.",
   },
   {
     question: "Which of the following courts does not have civil jurisdiction?",
@@ -314,7 +314,7 @@ const questions = [
     ],
     correctOptions: ["The Speaker of a State House of Assembly"],
     answeredOptions: [],
-    hint: "The Act specifies the inclusion of institutional bodies rather than individual officeholders.",
+    hint: "The Act specifies the inclusion of institutional bodies rather than individual officeholders See sec. 20 of the Supreme Court (S.C.) Act .",
   },
   {
     question:
@@ -329,7 +329,7 @@ const questions = [
       "The Attorney General of the Federation v National Legislature",
     ],
     answeredOptions: [],
-    hint: "The Attorney General represents the Federation in legal disputes.",
+    hint: "The Attorney General represents the Federation in legal disputes Sec. 20, S.C. Act.",
   },
   {
     Scenario:
@@ -342,9 +342,9 @@ const questions = [
       "The State High Court",
       "The Federal High Court",
     ],
-    correctOptions: ["The State High Court"],
+    correctOptions: ["The Federal High Court"],
     answeredOptions: [],
-    hint: "Matters of state-level impeachment fall under the jurisdiction of State High Courts.",
+    hint: "Section 272(3) of the Constitution gives the Federal High Court the authority to decide if a Governor's office has become vacant.",
   },
   {
     Scenario:
@@ -359,7 +359,7 @@ const questions = [
     ],
     correctOptions: ["The Supreme Court"],
     answeredOptions: [],
-    hint: "Disputes between a state and the federation fall under the exclusive jurisdiction of the Supreme Court.",
+    hint: "Disputes between the National Assembly and a State’s House of Assembly fall exclusively under the jurisdiction of the Supreme Court.",
   },
   {
     Scenario:
