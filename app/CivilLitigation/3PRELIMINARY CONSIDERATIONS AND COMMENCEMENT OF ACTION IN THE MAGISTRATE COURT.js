@@ -151,6 +151,85 @@ const questions = [
     correctOptions: ["N5 million"],
     answeredOptions: [],
     hint: "The District Court of the FCT has a monetary jurisdiction capped at N5 million, as provided under the relevant laws."
+  },
+  
+
+  {
+    Scenario: "Dr. Kelvin Smith, a business owner residing at No. 24 Park Avenue, Springfield, USA, requested in writing a loan of N5,000 from Apex Micro Finance Bank, located on Main Street, Springfield. The loan agreement stipulated that the amount, along with interest, must be repaid within 60 days of issuance. However, Dr. Smith defaulted on repayment after the due date.",
+    questions: [
+      {
+        question: "Which is the most appropriate and efficient court to file this claim?",
+        options: [
+          "Small Claims Court/Magistrate court",
+          "High Court, undefended list",
+          "District Court",
+          "Community Court"
+        ],
+        correctOptions: ["Small Claims Court/Magistrate court"],
+        answeredOptions: [],
+        hint: "For Nigerian Law School (NLS) purposes, the undefended list procedure is only relevant to the Federal Capital Territory (FCT), Abuja, not Lagos State. This is because some other states, besides the FCT, also have provisions for undefended lists within their court rules."
+      },
+      {
+        question: "After an Undefended list claim is issued by the court registrar, within how many days must it be served?",
+        options: [
+          "21 days",
+          "14 days",
+          "10 days",
+          "7 days"
+        ],
+        correctOptions: ["7 days"],
+        answeredOptions: [],
+        hint: "The process must be served promptly to ensure timely commencement of proceedings Article 5(1) of the Practice Direction of Small Claims Court (SCC)."
+      },
+      {
+        question: "How many days does the defendant have to respond to  claim to avoid being deemed to have admitted it?",
+        options: [
+          "5 days",
+          "7 days",
+          "8 days",
+          "10 days"
+        ],
+        correctOptions: ["7 days"],
+        answeredOptions: [],
+        hint: "The response time is limited to allow the court to proceed swiftly if the defendant fails to contest the claim Article 6(1) of the Practice Direction of SCC. ."
+      },
+      {
+        question: "What is the maximum monetary value allowed for a counterclaim in this court?",
+        options: [
+          "$12,000",
+          "$15,000",
+          "$10,000",
+          "$20,000"
+        ],
+        correctOptions: ["$10,000"],
+        answeredOptions: [],
+        hint: "Counterclaims in Small Claims Court have a specific monetary limit defined by the rules."
+      },
+      {
+        question: "Which form should the defendant use to file a counterclaim?",
+        options: [
+          "FORM SCA 2",
+          "FORM SCA 3",
+          "FORM SCA 4",
+          "FORM SCA 5"
+        ],
+        correctOptions: ["FORM SCA 4"],
+        answeredOptions: [],
+        hint: "The appropriate form is designated for filing counterclaims in Small Claims Court."
+      },
+      {
+        question: "Within how many days of service must the defendant file a counterclaim?",
+        options: [
+          "3 days",
+          "5 days",
+          "6 days",
+          "7 days"
+        ],
+        correctOptions: ["5 days"],
+        answeredOptions: [],
+        hint: "The counterclaim must be filed promptly to ensure it is considered within the main proceedings."
+      }
+    ]
   }
   
 

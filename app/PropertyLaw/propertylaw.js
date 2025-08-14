@@ -2166,7 +2166,8 @@ Scenario: "Mr. Chinedu Eze bought a two-story building at 5 Afolayan Close, Mait
   correctOption: ["Existing obligations of the parties"],
   answeredOptions: [],
   hint: "When insuring a property, the main factors to consider include selecting the insurance company, determining who will take out the insurance, and identifying the risks to be covered. Existing obligations are generally not a factor in deciding insurance."
-},{
+},
+{
   Scenario: "Mr. Ibrahim Suleiman, a businessman, has approached Zenith Bank Plc for a loan of ₦70 million, which he intends to secure using his house in Owerri. The loan will carry an interest rate of 12% and must be repaid within 12 months, with the due date set for March 10, 2024.",
   
   question: "If the legal mortgage was to be created for a property located in Lagos, which of the following statements would be accurate?",
